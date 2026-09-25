@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This package lives in the WharfKit monorepo at [wharfkit/js/packages/contract](https://github.com/wharfkit/js/tree/dev/packages/contract), and this repository is archived. Open new issues and pull requests on [wharfkit/js](https://github.com/wharfkit/js).
+
 # Contract Kit
 
 A library to simplify interactions with Antelope-based smart contracts.
